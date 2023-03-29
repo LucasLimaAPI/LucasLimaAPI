@@ -1,7 +1,6 @@
 ### Olá eu sou o Lucas! 👋
 
 - 🔭 BEM VINDO!
--
 - 🌱 Atualmente estudando Sistemas de Informação
 - 📫 tel:(11)988026254
 - 😄 Email:llima3780@gmail.com
