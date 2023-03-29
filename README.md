@@ -1,8 +1,8 @@
 ### Olá eu sou o Lucas! 👋
 
-- 🔭 Estou trabalhando para me tornar um programador FullStack.
+- 🔭 BEM VINDO!
+-
 - 🌱 Atualmente estudando Sistemas de Informação
-- 💬 Caso tenha interesse em me contratar entre em contato comigo!!!
 - 📫 tel:(11)988026254
 - 😄 Email:llima3780@gmail.com
 
