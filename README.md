@@ -11,7 +11,7 @@
   
   <div align="center">
   <a href="https://github.com/LucasLimaAPI">
-  
+   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LucasLimaAPI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLimaAPI&theme=dracula&hide_border=false&&layout=compact"/>
 </div>
   
@@ -23,7 +23,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasLimaAPI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ 
   ##
   
   <div>
