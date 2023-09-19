@@ -11,8 +11,7 @@
   
   <div align="center">
   <a href="https://github.com/LucasLimaAPI">
-   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LucasLimaAPI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLimaAPI&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLimaAPI&theme=dracula&hide_border=false&&layout=compact"/>
 </div>
   
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
