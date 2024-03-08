@@ -1,13 +1,19 @@
-### Olá eu sou o Lucas! 👋
+### HELLO WORLD !
 
-- 🔭 BEM VINDO!
-- 🌱 Atualmente estudando Sistemas de Informação
-- 📫 tel:(11)988026254
-- 😄 Email:llima3780@gmail.com
-   
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+Hi 👋, I'm Lucas! A passionate Data Science student from Brazil
+-Stunding 
+* 🌱 I’m currently studying Sistemas de informação at Anhembi Morumbi
+* 🔭 I am looking for my first job opportunity. My dream is to one day work with Data Science or AI and Machine Learning.
+
+
+<p align="center">
+        <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+
+<p align="center">
+         :star2::star2::star2:
+</p>
+
 
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
