@@ -1,10 +1,12 @@
-### HELLO WORLD !
-
+<p align="center">
+ HELLO WORLD !
+</p>
+<p align="center">
 Hi 👋, I'm Lucas! A passionate Data Science student from Brazil
 -Stunding 
 * 🌱 I’m currently studying Sistemas de informação at Anhembi Morumbi
 * 🔭 I am looking for my first job opportunity. My dream is to one day work with Data Science or AI and Machine Learning.
-
+</p>
 
 <p align="center">
         <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
