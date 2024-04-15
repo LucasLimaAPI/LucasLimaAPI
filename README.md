@@ -2,12 +2,12 @@
  HELLO WORLD !
 </p>
 <p align="center">
-Hi 👋, I'm Lucas! A passionate Data Science student from Brazil
+Hi 👋, I'm Lucas! A passionate Programming student from Brazil
  </p>
  
 Stunding 
 * 🌱 I’m currently studying Sistemas de informação at Anhembi Morumbi
-* 🔭 I am looking for my first job opportunity. My dream is to one day work with Data Science or AI and Machine Learning.
+* 🔭 I am looking for my first job opportunity. My dream is to one day work with Backend or Fullstack and Machine Learning.
 
 
 <p align="center">
