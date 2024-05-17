@@ -1,5 +1,5 @@
 <p align="center">
- HELLO WORLD 
+ HELLO WORLD !
 </p>
 <p align="center">
 Hello everyone👋, I'm Lucas! A passionate Programming student from Brazil
