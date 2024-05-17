@@ -2,7 +2,7 @@
  HELLO WORLD 
 </p>
 <p align="center">
-Hi 👋, I'm Lucas! A passionate Programming student from Brazil
+Hello everyone👋, I'm Lucas! A passionate Programming student from Brazil
  </p>
  
 **Stunding**
