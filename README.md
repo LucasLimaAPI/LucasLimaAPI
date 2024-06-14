@@ -3,7 +3,7 @@
 Hello everyone👋, I'm Lucas! A passionate Programming student from Brazil
  </p>
  
-### **Stunding**
+### **STYDYING**
 * 🌱 I’m currently studying Sistemas de informação at Anhembi Morumbi
 * 🔭 I am looking for my first job opportunity. My dream is to one day work with Backend or Fullstack and Machine Learning.
 
