@@ -1,6 +1,7 @@
-## <p align="center"> Hello everyone👋, I'm Lucas! A passionate Programming student from Brazil  </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a3de3e&height=120&section=footer"/>
+
+## <p align="center"> Hello everyone👋, I'm Lucas! A passionate Programming student from Brazil  </p>
 
 ## <p align="center"> **STUDYING** </p>
 ### * 🌱 I’m currently studying Sistemas de informação at Anhembi Morumbi
