@@ -2,10 +2,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a3de3e&height=120&section=footer"/>
 
-
-### **STUDYING**
-* 🌱 I’m currently studying Sistemas de informação at Anhembi Morumbi
-* 🔭 I am looking for my first job opportunity. My dream is to one day work with Backend or Fullstack and Machine Learning.
+## <p align="center"> **STUDYING** </p>
+### * 🌱 I’m currently studying Sistemas de informação at Anhembi Morumbi
+### * 🔭 I am looking for my first job opportunity. My dream is to one day work with Backend or Fullstack and Machine Learning.
 
 
 <p align="center">
