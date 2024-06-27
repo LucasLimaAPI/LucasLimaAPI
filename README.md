@@ -72,6 +72,7 @@
   ![snake gif](https://github.com/LucasLimaAPI/LucasLimaAPI/blob/output/github-snake.svg)
 
 
+
   <p align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a3de3e&height=120&section=footer"/></p>
   
 
