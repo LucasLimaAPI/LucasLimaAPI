@@ -7,8 +7,16 @@
 ### * 🌱 I’m currently studying Sistemas de informação at Anhembi Morumbi
 ### * 🔭 I am looking for my first job opportunity. My dream is to one day work with Backend or Fullstack and Machine Learning.
 
+## **Did you like my work and would like to contact me to talk?**
+
+
+### **☎️Telephone:** (55)11988026254
+
+### **📧Email:** llima3780@gmail.com
 
 <p align="center">
+         :star2::star2::star2:
+</p><p align="center">
         <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
