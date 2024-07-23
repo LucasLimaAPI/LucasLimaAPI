@@ -4,7 +4,7 @@
 ## <p align="center"> Hello everyone, I'm Lucas! A passionate Programming student from Brazil 👋 
 
 ### * 🌱 I’m currently studying Sistemas de informação at Anhembi Morumbi
-### * 🔭 I am looking for my first job opportunity. My dream is to one day work with Backend or Fullstack and Machine Learning.
+### * 🔭 I am looking for my first job opportunity. My dream is to one day work with Backend or Fullstack.
 
 ## **Did you like my work and would like to contact me to talk?**
 
