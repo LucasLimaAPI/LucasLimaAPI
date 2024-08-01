@@ -7,7 +7,6 @@
 
 ## **Did you like my work and would like to contact me to talk?**
 
-
 ### **☎️Telephone:** (55)11988026254
 
 ### **📧Email:** llima3780@gmail.com
