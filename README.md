@@ -20,9 +20,9 @@
          :star2::star2::star2:
 </p>
 
-
-
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasLimaAPI&radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
+</p>
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LucasLimaAPI&theme=merko&mode=weekly" />
 
