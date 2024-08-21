@@ -3,12 +3,15 @@
 
 ###  🌱 I’m currently studying Sistemas de informação at Anhembi Morumbi
 ###  🔭 I am looking for my first job opportunity. My dream is to one day work with Backend or Fullstack.
+&nbsp;
 
-## **Did you like my work and would like to contact me to talk?**
-
-### **☎️Telephone:** (55)11988026254
-
-### **📧Email:** llima3780@gmail.com
+##  <p align="center">  **Did you like my work and would like to contact me to talk?** </p>
+ &nbsp;
+ <p align="center">
+ <b>☎️Telephone: (55)11988026254
+          &nbsp;
+ 📧Email: llima3780@gmail.com</b>
+</p>
 
 <p align="center">
          :star2::star2::star2:
