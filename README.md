@@ -18,10 +18,12 @@
 <p align="center">
         <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+ &nbsp;
 
 <p align="center">
          :star2::star2::star2:
 </p>
+ &nbsp;
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasLimaAPI&radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -36,6 +38,9 @@
  &nbsp;
 
 ## My Skills
+<p align="center">
+         :star2::star2::star2:
+</p>
 
 #### Main Stack:
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
