@@ -40,8 +40,10 @@
  
  &nbsp;
  &nbsp;
+## <p align="center">My Skills</p>
 
-## My Skills
+
+
 <p align="center">
          :star2::star2::star2:
 </p>
