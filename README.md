@@ -70,9 +70,8 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## <p align= "center"> Contacts: </p>
 <div> 
- 
 <a href = "mailto:contato.lllima3780@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-lima-de-oliveira-b04149201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
