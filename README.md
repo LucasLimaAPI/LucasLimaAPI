@@ -37,7 +37,6 @@
  &nbsp;
 ## <p align="center">My Skills</p>
 
-
 <p align="center">
          :star2::star2::star2:
 </p>
@@ -77,9 +76,3 @@
 <a href="https://www.linkedin.com/in/lucas-lima-de-oliveira-b04149201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
   <p align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a3de3e&height=120&section=footer"/></p>
-  
-
-  
-  
-  
-  
