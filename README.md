@@ -5,13 +5,17 @@
 ###  🔭 I am looking for my first job opportunity. My dream is to one day work with Backend or Fullstack.
 &nbsp;
 <p align="center"> <b>--------------------------------------------------------------------------------------------------------------------------------------------------</b> </p>
+&nbsp;
 
 ## <p align="center">  **Did you like my work and would like to contact me to talk?** </p>
 
 ### <p align="center"> <b>☎️Telephone: (55)11988026254 </b> </p>
 ### <p align="center"> <b> 📧Email: llima3780@gmail.com </b> </p>
 
+&nbsp;
 <p align="center"> <b>--------------------------------------------------------------------------------------------------------------------------------------------------</b> </p>
+
+
 
 <p align="center">
          :star2::star2::star2:
