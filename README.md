@@ -4,7 +4,7 @@
 ###  🌱 I’m currently studying Sistemas de informação at Anhembi Morumbi
 ###  🔭 I am looking for my first job opportunity. My dream is to one day work with Backend or Fullstack.
 &nbsp;
-<p align="center"> <b>-------------------------------------------------------------------------------------------------------------------------------------------------</b> </p>
+<p align="center"> <b>--------------------------------------------------------------------------------------------------------------------------------------------------</b> </p>
 
 ## <p align="center">  **Did you like my work and would like to contact me to talk?** </p>
 
