@@ -10,7 +10,7 @@
 <p align="center"> <b>--------------------------------------------------------------------------------------------------------------------------------------------------</b> </p>
 &nbsp;
 
-## <p align="center">  **Did you like my work and would like to contact me to talk?** </p>
+## <p align="center">  **Contact me?** </p>
 
 
 ### <p align="center"> <b>☎️Telephone: (55)11988026254 </b> </p>
