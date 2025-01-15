@@ -37,7 +37,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasLimaAPI&radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
 </p>
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LucasLimaAPI&theme=merko&mode=weekly" />
+
 
  ![LucasLimaAPI Github stats](https://github-readme-stats.vercel.app/api?username=LucasLimaAPI&show_icons=true&theme=merko)
  </div>
