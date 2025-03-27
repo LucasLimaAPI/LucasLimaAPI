@@ -4,7 +4,7 @@
 
 
 ### <p align="center">  🌱 I’m currently studying <b>Information Systems</b> at Anhembi Morumbi </p>
-###  <p align="center"> 🔭 I am looking for my first job opportunity. My dream is to one day work with Backend or Fullstack. </p> 
+###  <p align="center"> 🔭 I am looking for my first job opportunity, My main goal is to one day work as a Development or Data Engineer. </p> 
 
 &nbsp;
 <p align="center"> <b>--------------------------------------------------------------------------------------------------------------------------------------------------</b> </p>
