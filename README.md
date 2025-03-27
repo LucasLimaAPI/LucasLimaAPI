@@ -3,7 +3,7 @@
 &nbsp;
 
 
-### <p align="center">  🌱 I’m currently studying Sistemas de informação at Anhembi Morumbi </p>
+### <p align="center">  🌱 I’m currently studying <b>Information Systems</b> at Anhembi Morumbi </p>
 ###  <p align="center"> 🔭 I am looking for my first job opportunity. My dream is to one day work with Backend or Fullstack. </p> 
 
 &nbsp;
