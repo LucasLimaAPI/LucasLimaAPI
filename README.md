@@ -1,20 +1,34 @@
-# <p align="center">👋 Hello everyone, I'm Lucas!</p>
-<p align="center">🎓 Passionate Programming student from Brazil</p>
+# <p align="center">👋 Hello, I'm Lucas Lima!</p>
+<p align="center">🎓 Information Systems student | 📊 Aspiring Data Analyst</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a3de3e&height=120&section=footer"/>
-
----
-
-### <p align="center">🌱 Currently studying **Information Systems** at Anhembi Morumbi</p>
-### <p align="center">🔭 Looking for new opportunities — I dream of becoming a **Developer** or **Data Engineer**</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a3de3e&height=120&section=footer"/>
 
 ---
 
-## <p align="center">💼 Let’s Connect!</p>
+## <p align="center">📌 About Me</p>
 
 <p align="center">
-📞 <strong>Phone:</strong> (55) 11 98802-6254 <br/>
+  I'm a passionate and curious Information Systems student based in Brazil 🇧🇷, on a mission to transform data into insights! <br/>
+  I'm currently exploring the world of <strong>Data Analysis</strong>, <strong>Data Visualization</strong>, and <strong>Machine Learning</strong>. <br/>
+  My goal? To become a **Data Analyst** and contribute to data-driven decisions that truly matter.
+</p>
+
+---
+
+## <p align="center">📚 Education</p>
+
+<p align="center">
+  🎓 <strong>Anhembi Morumbi University</strong> — Information Systems <br/>
+  📆 2025
+</p>
+
+---
+
+## <p align="center">💼 Let's Connect!</p>
+
+<p align="center">
 📧 <strong>Email:</strong> llima3780@gmail.com <br/>
+📱 <strong>Phone:</strong> (55) 11 98802-6254
 </p>
 
 <p align="center">
@@ -28,62 +42,81 @@
 
 ---
 
-## <p align="center">📊 GitHub Stats</p>
+## <p align="center">🚀 Highlight Projects</p>
+
+<div align="center">
+
+| 🧠 Project | 🛠 Tech | 📎 Link |
+|-----------|--------|---------|
+| **ETL + Dashboard** | Python, Pandas, Power BI | [GitHub Repo](#) |
+| **Análise de Dados com Python** | Jupyter, Matplotlib, Seaborn | [GitHub Repo](#) |
+| **Web Scraping Financeiro** | BeautifulSoup, Pandas | [GitHub Repo](#) |
+
+</div>
+
+> 💡 *Click the links above to explore my projects in data analysis, automation, and visualization!*
+
+
+---
+
+## <p align="center">🧠 My Tech Stack (Data-Focused)</p>
+
+### <p align="center">📊 Data Analysis & Visualization</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### <p align="center">🗄️ Databases</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+## <p align="center">📈 GitHub Stats</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasLimaAPI&show_icons=true&theme=merko" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasLimaAPI&radius=16&theme=merko&area=true&order=5" alt="Activity Graph" height="300"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasLimaAPI&theme=merko&radius=16&area=true" alt="GitHub Activity"/>
 </p>
 
 ---
 
-## <p align="center">🧠 My Skills</p>
+## <p align="center">🏅 Badges & Certificates (Em Breve)</p>
 
-### <p align="center">🚀 Main Stack</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis%20with%20Python-Completed-brightgreen?style=for-the-badge&logo=freecodecamp"/>
+  <img src="https://img.shields.io/badge/Power%20BI%20Fundamentals-In%20Progress-yellow?style=for-the-badge&logo=microsoft"/>
 </p>
 
-### <p align="center">🔧 Secondary Stack</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+---
 
-### <p align="center">🗄️ Databases</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+## <p align="center">🎯 Career Goals</p>
 
-### <p align="center">🖥️ Workstation Tools</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+✨ Work as a Junior Data Analyst in a dynamic and growth-driven team<br/>
+📊 Apply data analysis to real-world business challenges<br/>
+📚 Continue learning about Machine Learning and Data Engineering<br/>
+🤝 Contribute to open-source projects and collaborate with the tech community
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem decorativa"/>
-</p>
-
----
-
-<p align="center">
-  ⭐ If you enjoyed this profile, consider giving it a star and let's connect!
+  ⭐ If you enjoyed my profile, consider following me or dropping a star in one of my projects!
 </p>
 
 <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a3de3e&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a3de3e&height=120&section=footer"/>
 </p>
