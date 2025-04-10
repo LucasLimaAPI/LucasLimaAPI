@@ -10,7 +10,7 @@
 <p align="center">
   I'm a passionate and curious Information Systems student based in Brazil 🇧🇷, on a mission to transform data into insights! <br/>
   I'm currently exploring the world of <strong>Data Analysis</strong>, <strong>Data Visualization</strong>, and <strong>Machine Learning</strong>. <br/>
-  My goal? To become a **Data Analyst** and contribute to data-driven decisions that truly matter.
+  My goal? To become a <strong>Data Analyst</strong> and contribute to data-driven decisions that truly matter.
 </p>
 
 ---
