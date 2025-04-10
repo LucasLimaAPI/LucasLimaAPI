@@ -48,9 +48,9 @@
 
 | 🧠 Project | 🛠 Tech | 📎 Link |
 |-----------|--------|---------|
-| **ETL + Dashboard** | Python, Pandas, Power BI | [GitHub Repo](#) |
-| **Análise de Dados com Python** | Jupyter, Matplotlib, Seaborn | [GitHub Repo](#) |
-| **Web Scraping Financeiro** | BeautifulSoup, Pandas | [GitHub Repo](#) |
+| **ETL + Dashboard** | Python, Pandas, Power BI | [GitHub Repo](https://github.com/LucasLimaAPI/Power-BI-BI) |
+| **Análise de Dados com Python** | Jupyter, Matplotlib, Seaborn | [GitHub Repo](https://github.com/LucasLimaAPI/Python) |
+| **Web Scraping Financeiro** | BeautifulSoup, Pandas | [GitHub Repo](https://github.com/LucasLimaAPI/ZenithBank) |
 
 </div>
 
@@ -93,12 +93,17 @@
 
 ---
 
-## <p align="center">🏅 Badges & Certificates (Em Breve)</p>
+## <p align="center">📜 Certifications</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analysis%20with%20Python-Completed-brightgreen?style=for-the-badge&logo=freecodecamp"/>
-  <img src="https://img.shields.io/badge/Power%20BI%20Fundamentals-In%20Progress-yellow?style=for-the-badge&logo=microsoft"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis%20with%20Python-Completed-brightgreen?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Power%20BI%20Fundamentals-Completed-brightgreen?style=for-the-badge&logo=microsoft"/>
+  <img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-Completed-brightgreen?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Excel%20for%20Data%20Analysis-Completed-brightgreen?style=for-the-badge&logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Completed-brightgreen?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/Alura-Education-blueviolet?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAA..."/> <!-- Logo customizado da Alura opcional -->
 </p>
+
 
 ---
 
