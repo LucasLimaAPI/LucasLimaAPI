@@ -1,5 +1,9 @@
-# <p align="center">👋 Hello, I'm Lucas Lima!</p>
-## <p align="center">🎓 Information Systems student | 📊 Aspiring Data Analyst</p>
+<h1 align="center">👋 Hey there, I'm Lucas Lima!</h1>
+<h3 align="center">🎓 Information Systems Student • 💻 Data Analyst Enthusiast • ⚡ Electronic Trading Explorer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LucasLimaAPI&style=flat-square&color=brightgreen" alt="Profile views"/>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a3de3e&height=120&section=footer"/>
 
@@ -11,6 +15,15 @@
   I'm a passionate and curious Information Systems student based in Brazil 🇧🇷, on a mission to transform data into insights! <br/>
   I'm currently exploring the world of <strong>Data Analysis</strong>, <strong>Data Visualization</strong>, and <strong>Machine Learning</strong>. <br/>
   My goal? To become a <strong>Data Analyst</strong> and contribute to data-driven decisions that truly matter.
+</p>
+
+---
+
+## <p align="center">🌐 Languages</p>
+
+<p align="center">
+  🇧🇷 Portuguese — Native Speaker <br/>
+  🇺🇸 English — Intermediate Level
 </p>
 
 ---
@@ -56,7 +69,6 @@
 
 > 💡 *Click the links above to explore my projects in data analysis, automation, and visualization!*
 
-
 ---
 
 ## <p align="center">🧠 My Tech Stack (Data-Focused)</p>
@@ -101,9 +113,8 @@
   <img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-Completed-brightgreen?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/Excel%20for%20Data%20Analysis-Completed-brightgreen?style=for-the-badge&logo=microsoft-excel"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-Completed-brightgreen?style=for-the-badge&logo=scikit-learn"/>
-  <img src="https://img.shields.io/badge/Alura-Education-blueviolet?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAA..."/> <!-- Logo customizado da Alura opcional -->
+  <img src="https://img.shields.io/badge/Alura-Education-blueviolet?style=for-the-badge"/>
 </p>
-
 
 ---
 
