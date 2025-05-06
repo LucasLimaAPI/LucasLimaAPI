@@ -124,7 +124,7 @@
 ## <p align="center">🎯 Career Goals</p>
 
 <p align="center">
-✨ Work as a Junior Data Analyst in a dynamic and growth-driven team<br/>
+✨ Work as a Junior Data Analyst or Full-Stack in a dynamic and growth-driven team<br/>
 📊 Apply data analysis to real-world business challenges<br/>
 📚 Continue learning about Machine Learning and Data Engineering<br/>
 🤝 Contribute to open-source projects and collaborate with the tech community
