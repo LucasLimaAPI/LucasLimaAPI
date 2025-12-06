@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Lucas Lima!</h1>
-<h3 align="center">🎓 Information Systems Student • 💻 Data Analyst Enthusiast • ⚡ Electronic Trading Explorer</h3>
+<h3 align="center">🎓 Information Systems Student • 💻 IA Enthusiast • ⚡ Electronic Trading Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasLimaAPI&style=flat-square&color=brightgreen" alt="Profile views"/>
